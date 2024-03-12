@@ -1,4 +1,4 @@
-# S24
+# :purple_heart:S24
 ## Digital Literacy and English Education
 This is fun.
 + This is the first item
